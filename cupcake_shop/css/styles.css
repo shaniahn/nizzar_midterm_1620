@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Roboto:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #C09187;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    font-family: 'Source Sans Pro', sans-serif;
+    float: left;
+    color: #28536B;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+  }
+
+  img {
+    float: left;
+    padding: 10px;
+    max-width:40%;
+    max-height:40%;
+  }
+
+  p {
+    font-family: 'Playfair Display', serif;
+    color: #28536B;
+  }
+
+  body {
+    background-color: #F6F0ED 
+  }
+
+  a:link {
+    color: #28536B;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #7EA8BE;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #7EA8BE;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #C09187;
+    background-color: transparent;
+    text-decoration: underline;
+  }
